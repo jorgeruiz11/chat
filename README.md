@@ -1,2 +1,4 @@
-# chat
-Simple python chat multi-client
+# Simple python chat multi-client
+
+Author: Jorge Ruiz
+
